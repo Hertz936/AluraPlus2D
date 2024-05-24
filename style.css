@@ -18,5 +18,13 @@ body{
     background-size: contain;
 }
 .container{
-    height: 100% vh;
+    height: 100vh;
+    display: grid;
+}
+.container-botao{
+    background-color:darkblue;
+    border-radius: 5px;
+    padding: 1em;
+    color: aquamarine;
+    display: block;
 }
